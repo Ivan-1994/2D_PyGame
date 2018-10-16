@@ -1,0 +1,2 @@
+class EventsGame:
+    pass
