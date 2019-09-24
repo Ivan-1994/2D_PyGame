@@ -47,14 +47,3 @@ class MainGame:
 
         if not self.bool_position_x() and not self.bool_position_y():
             self.bool_pos = False
-
-
-"""  
-    Если передвигается на 20пх
-    x: 100 < 86 < 80
-    y: 80 < 71 < 60
-    
-    71-60=11
-    80-71=9
-    
-"""
